@@ -13,3 +13,10 @@ test case should be tested
 for help :- hm3670@gmail.com
  
  update comming soon
+ 
+ ISSUE VALIDATION (ASAP);
+
+test case is nit able to validate properly;
+system prediction values might be false .
+
+it is highly recomanded to evalute the test case and report to the master;
