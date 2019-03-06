@@ -19,4 +19,4 @@ for help :- hm3670@gmail.com
 test case is nit able to validate properly;
 system prediction values might be false .
 
-it is highly recomanded to evalute the test case and report to the master;
+it's highly recomanded to evalute the test case and report to the master;
