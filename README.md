@@ -14,7 +14,7 @@ for help :- hm3670@gmail.com
  
  update comming soon
  
- ISSUE VALIDATION (ASAP);
+ ISSUE VALIDATION (ASAP)
 
 test case is nit able to validate properly;
 system prediction values might be false .
