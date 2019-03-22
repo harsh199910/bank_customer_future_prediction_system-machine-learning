@@ -10,7 +10,7 @@ Fork are invited, if anyone finds a new way for source cide
 
 test case should be tested
 
-for help :- hm3670@gmail.com
+for help : hm3670@gmail.com
  
  update comming soon
  
