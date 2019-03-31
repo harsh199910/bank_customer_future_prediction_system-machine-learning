@@ -16,7 +16,7 @@ for help : hm3670@gmail.com
  
  ISSUE VALIDATION (ASAP)
 
-test case is nit able to validate properly;
-system prediction values might be false .
+test case is not able to validate properly;
+
 
 it's highly recomanded to evalute the test case and report to the master;
